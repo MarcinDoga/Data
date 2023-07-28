@@ -6,10 +6,10 @@
         "types": "Italic"
     },
     "content": {
-        "content": "Test 123 XDDDDDDDDDDDD Czy to działa?",
-        "font": "Arial",
+        "content": "",
+        "font": "",
         "color": "",
-        "types": "Bold"
+        "types": ""
     },
     "links": {
         "links": {
