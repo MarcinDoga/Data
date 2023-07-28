@@ -1,15 +1,15 @@
 {
     "title": {
-        "content": "Test 123 Czy to działa? XDD",
-        "font": "Arial",
-        "color": "#8F863A",
-        "types": "Bold"
+        "content": "",
+        "font": "",
+        "color": "",
+        "types": ""
     },
     "content": {
-        "content": "Test 123 XDDDDDDDDDDDD Czy to działa?",
-        "font": "Arial",
+        "content": "",
+        "font": "",
         "color": "",
-        "types": "Bold"
+        "types": ""
     },
     "links": {
         "links": {
