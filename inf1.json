@@ -1,0 +1,28 @@
+{
+    "title": {
+        "content": "",
+        "font": "",
+        "color": "",
+        "types": ""
+    },
+    "content": {
+        "content": "",
+        "font": "",
+        "color": "",
+        "types": ""
+    },
+    "links": {
+        "links": {
+            "link1": ""
+        },
+        "types": "",
+        "color": "",
+        "font": ""
+    },
+    "images": {
+        "imageLinks": {
+            "link1": ""
+        },
+        "title": ""
+    }
+}
