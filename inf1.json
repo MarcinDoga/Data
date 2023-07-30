@@ -1,15 +1,15 @@
 {
     "title": {
-        "content": "",
-        "font": "",
-        "color": "",
-        "types": ""
+        "content": "XDD 123",
+        "font": "Arial",
+        "color": "#4CBD7A",
+        "types": "Bold"
     },
     "content": {
-        "content": "",
-        "font": "",
-        "color": "",
-        "types": ""
+        "content": "TestXDD",
+        "font": "Arial",
+        "color": "#BD4C6F",
+        "types": "Italic"
     },
     "links": {
         "links": {
