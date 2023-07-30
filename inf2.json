@@ -1,15 +1,15 @@
 {
     "title": {
-        "content": "",
-        "font": "",
-        "color": "",
-        "types": ""
+        "content": "Test 123",
+        "font": "Arial",
+        "color": "#9D4CBD",
+        "types": "Underline"
     },
     "content": {
-        "content": "",
-        "font": "",
-        "color": "",
-        "types": ""
+        "content": "Test 123",
+        "font": "Times New Roman",
+        "color": "#BDBB4C",
+        "types": "Bold"
     },
     "links": {
         "links": {
