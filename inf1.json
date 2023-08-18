@@ -16,7 +16,13 @@
     },
     "links": {
         "links": {
-            "link1": "",
+            "link1": "https://youtube.com/@Marcin_Doga",
+            "link2": "",
+            "link3": "",
+            "link4": ""
+        },
+        "linksNames": {
+            "link1": "Marcin YT XDD",
             "link2": "",
             "link3": "",
             "link4": ""
