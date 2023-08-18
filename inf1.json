@@ -1,4 +1,7 @@
 {
+    "visible": {
+        "enabled": "false"
+    }
     "title": {
         "content": "XDD 123",
         "font": "Arial",
