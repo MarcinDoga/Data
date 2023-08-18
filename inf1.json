@@ -17,31 +17,31 @@
     },
     "links": {
         "links": {
-            "link1": "",
+            "link1": "https://discord.gg/wuwZmdUjym",
             "link2": "",
             "link3": "",
             "link4": ""
         },
         "linksNames": {
-            "link1": "",
+            "link1": "AthermoBase Discord",
             "link2": "",
             "link3": "",
             "link4": ""
         },
-        "types": "",
-        "color": "",
-        "font": ""
+        "types": "Underline",
+        "color": "#690D5D",
+        "font": "Arial"
     },
     "images": {
         "imageLinks": {
-            "link1": "",
-            "link2": "",
+            "link1": "https://i.imgur.com/dz98KMC.png",
+            "link2": "https://i.imgur.com/R4kVBpN.png",
             "link3": "",
             "link4": ""
         },
         "imageTitles": {
-            "title1": "",
-            "title2": "",
+            "title1": "Terms and Conditions Form",
+            "title2": "Terms and conditions selection window",
             "title3": "",
             "title4": ""
         }
