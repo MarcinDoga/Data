@@ -27,9 +27,9 @@
             "link3": "",
             "link4": ""
         },
-        "types": "Underline",
-        "color": "#2D3BA5",
-        "font": "Arial"
+        "types": "",
+        "color": "",
+        "font": ""
     },
     "images": {
         "imageLinks": {
@@ -39,10 +39,16 @@
             "link4": ""
         },
         "imageTitles": {
-            "title1": "Logo Marcin",
-            "title2": "Skin Marcina",
+            "title1": "",
+            "title2": "",
             "title3": "",
             "title4": ""
         }
+    },
+    "backgroundImage": {
+        "enabled": "true",
+        "imageLink": "https://github.com/MarcinDoga/AppImages/blob/46a20daaa5a9ae749810595cf5837de7fc4db3bc/YTWatch.png",
+        "imageStyle": "normal",
+        "backColor": "White"
     }
 }
