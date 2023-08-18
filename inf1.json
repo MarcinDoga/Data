@@ -47,7 +47,7 @@
     },
     "backgroundImage": {
         "enabled": "true",
-        "imageLink": "https://github.com/MarcinDoga/AppImages/blob/46a20daaa5a9ae749810595cf5837de7fc4db3bc/YTWatch.png",
+        "imageLink": "https://raw.githubusercontent.com/MarcinDoga/AppImages/46a20daaa5a9ae749810595cf5837de7fc4db3bc/YTWatch.png",
         "imageStyle": "normal",
         "backColor": "White"
     }
