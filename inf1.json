@@ -1,7 +1,7 @@
 {
     "visible": {
-        "enabled": "false"
-    }
+        "enabled": "true"
+    },
     "title": {
         "content": "XDD 123",
         "font": "Arial",
@@ -16,7 +16,10 @@
     },
     "links": {
         "links": {
-            "link1": ""
+            "link1": "",
+            "link2": "",
+            "link3": "",
+            "link4": ""
         },
         "types": "",
         "color": "",
@@ -25,8 +28,15 @@
     "images": {
         "imageLinks": {
             "link1": "https://i.imgur.com/A4GGdkx.png",
-            "link2": "https://i.imgur.com/SAjIZuB.png"
+            "link2": "https://i.imgur.com/SAjIZuB.png",
+            "link3": "",
+            "link4": ""
         },
-        "title": ""
+        "imageTitles": {
+            "title1": "",
+            "title2": "",
+            "title3": "",
+            "title4": ""
+        }
     }
 }
