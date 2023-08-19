@@ -1,0 +1,54 @@
+{
+    "visible": {
+        "enabled": "true"
+    },
+    "title": {
+        "content": "New Animations!",
+        "font": "Open Sans",
+        "color": "#F4511E",
+        "types": "Underline"
+    },
+    "content": {
+        "content": "New animations are available since Update 1.2.4.0, and there will only be more and more of them! Animated underlining of selected buttons is not all that will be added soon. Join the Official AthermoBase Discord to see full changelogs and new features in real time! Link to Discord and my YT channel below.",
+        "font": "Arial",
+        "height": "420",
+        "color": "#010D0D",
+        "types": "Regular"
+    },
+    "links": {
+        "links": {
+            "link1": "https://discord.gg/wuwZmdUjym",
+            "link2": "https://youtube.com/@Marcin_Doga",
+            "link3": "",
+            "link4": ""
+        },
+        "linksNames": {
+            "link1": "AthermoBase Discord",
+            "link2": "Marcin Dg Channel",
+            "link3": "",
+            "link4": ""
+        },
+        "types": "Underline",
+        "color": "#690D5D",
+        "font": "Arial"
+    },
+    "images": {
+        "imageLinks": {
+            "link1": "https://i.imgur.com/QbQys3I.png",
+            "link2": "https://i.imgur.com/rBXKipW.png",
+            "link3": "",
+            "link4": ""
+        },
+        "imageTitles": {
+            "title1": "Menu Animations",
+            "title2": "AthermoBase Animations",
+            "title3": "",
+            "title4": ""
+        }
+    },
+    "backgroundImage": {
+        "enabled": "",
+        "imageLink": "",
+        "imageStyle": "",
+        "backColor": ""
+    }
