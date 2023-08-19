@@ -3,13 +3,13 @@
         "enabled": "true"
     },
     "title": {
-        "content": "New Animations!",
+        "content": "New Animations and scalable window!",
         "font": "Open Sans",
         "color": "#F4511E",
         "types": "Underline"
     },
     "content": {
-        "content": "New animations are available since Update 1.2.4.0, and there will only be more and more of them! Animated underlining of selected buttons is not all that will be added soon. Join the Official AthermoBase Discord to see full changelogs and new features in real time! Link to Discord and my YT channel below.",
+        "content": "Since Update 1.2.4.0, new animations are available and there will be more and more! Animated underlining of selected buttons is not all that will be added soon. In addition, support for enlarging the Menu window has been added! Join the official AthermoBase Discord to see full changelogs and new features in real time! Link to Discord and my YT channel below.",
         "font": "Arial",
         "height": "220",
         "color": "#010D0D",
